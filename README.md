@@ -9,6 +9,8 @@
  
 ### hacking
 
+sources, time interval and destination defined in `config.yaml`
+
 in `app.coffee` this section:
 ```
   final = ->
