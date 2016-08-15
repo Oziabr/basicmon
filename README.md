@@ -12,7 +12,7 @@
 sources, time interval and destination defined in `config.yaml`
 
 in `app.coffee` this section:
-```
+```coffeescript
   final = ->
     console.log 'done', timer.format('YYYY.MM.DD hh:mm:ss.SSS'), moment().diff(timer), result
     #request {url: config.dest}
