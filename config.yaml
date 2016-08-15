@@ -1,0 +1,5 @@
+timer: 1000
+sources:
+  url1: http://echo.jsontest.com/key/value
+  url2: http://echo.jsontest.com/lal/wok/kuf/mer/ext/dop
+  url3: http://echo.jsontest.com/key/key
